@@ -45,11 +45,16 @@ Our project encompasses all essential features expected from a modern online boo
 
 ## ER/EER Diagram
 
-![EER Diagram](link_to_your_image)
+<img src="https://github.com/AbrarAmiya/online_book_store/assets/115402065/fd62baae-14e0-46a9-a4a4-74ba3e50ddaf" width="500">
+
+
+
 
 ## Schema Diagram
 
-![Schema Diagram](link_to_your_image)
+<img src="https://github.com/AbrarAmiya/online_book_store/assets/115402065/9572cba8-0cd1-4b37-a0c0-b95bc5c8235c" width="500">
+
+
 
 ## Frontend Development
 
